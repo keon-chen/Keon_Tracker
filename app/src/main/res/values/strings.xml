@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Keon Tracker</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="location_waiting">正在取得目前位置…</string>
+    <string name="location_unavailable">目前無法取得 GPS 位置，請確認手機定位功能已開啟。</string>
+    <string name="permission_denied">定位權限被拒絕，請到系統設定允許此 App 使用位置。</string>
+    <string name="location_format">目前位置\n緯度：%.6f\n經度：%.6f\n定位精度：約 %.1f 公尺</string>
+</resources>
